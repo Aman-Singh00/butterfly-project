@@ -7,5 +7,6 @@ public class PractticeClass2 {
 	public void test()
 	{
 		System.out.println("test1------class2");
+		System.out.println("hello");
 	}
 }
