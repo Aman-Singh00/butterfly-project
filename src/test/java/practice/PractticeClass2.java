@@ -9,5 +9,6 @@ public class PractticeClass2 {
 		System.out.println("test1------class2");
 		System.out.println("hello");
 		System.out.println("wasim");
+		System.out.println("aman");
 	}
 }
